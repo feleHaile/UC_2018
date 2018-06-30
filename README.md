@@ -18,3 +18,4 @@ To use these notebooks:
 
 1) Set-up the proper environment to run them in. 
 2) Paste notebooks into that location. On my machine, that is: C:\ArcGIS\Pro\bin\Python\envs\arcgispro-r
+3) Paste the data folder into that location as well. On my machine, that is: C:\ArcGIS\Pro\bin\Python\envs\arcgispro-r
